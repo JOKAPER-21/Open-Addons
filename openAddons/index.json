@@ -1,0 +1,27 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sceasar",
+      "name": "SCeasar",
+      "tagline": "Example Add-on",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Your Name <you@example.com>",
+      "license": [
+        "GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.0.0",
+      "platforms": [
+        "windows",
+        "linux",
+        "macos"
+      ],
+      "archive_url": "./S_Ceasar.zip",
+      "archive_size": 66842,
+      "archive_hash": "sha256:db5ed4b5d583a5eaa164e3ce99a3b6e2b5813663628de3fa1d54918435a8ae6f"
+    }
+  ]
+}
