@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "packages": [
+    {
+      "id": "sceasar",
+      "name": "SCeasar",
+      "tagline": "Example Add-on",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Your Name <you@example.com>",
+      "license": ["GPL-3.0-or-later"],
+      "blender_version_min": "4.0.0",
+      "platforms": ["windows", "linux", "macos"],
+      "download_url": "https://raw.githubusercontent.com/JOKAPER-21/Open-Addons/main/openAddons/SCeasar.zip",
+      "archive_hash": "sha256:8e6fce883d2a93aeb0ebe2542ef3cda47e45cf7f2f44fc7205360d768da8fbef",
+      "archive_size": 21054
+    }
+  ]
+}
